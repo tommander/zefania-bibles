@@ -1,0 +1,6 @@
+json/*.json
+map/*.json
+meta/*.json
+xml/*.xml
+index.json
+index.min.json
